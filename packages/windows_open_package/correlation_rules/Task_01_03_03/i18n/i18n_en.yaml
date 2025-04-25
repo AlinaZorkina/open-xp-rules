@@ -1,0 +1,4 @@
+Description: 'wmic.exe executed on the host desktop-eoo67ob'
+EventDescriptions:
+  - LocalizationId: 'corrname_Task_01_03_03'
+    EventDescription: 'The process {object.process.name} executed the command {object.process.cmdline} ont the {event_src.host}'
