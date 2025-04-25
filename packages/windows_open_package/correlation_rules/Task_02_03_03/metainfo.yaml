@@ -1,0 +1,21 @@
+ContentAutoName: Task_02_03_03
+ExpertContext:
+  Created: 25.04.2025
+  Updated: 25.04.2025
+  KnowledgeHolders:
+    - '03_03'
+  Usecases: []
+  Falsepositives: []
+  References: []
+  Improvements: []
+  DataSources:
+    - Provider: Microsoft-Windows-Sysmon
+      EventID: []
+ObjectId: SEC-CR-178277930
+EventDescriptions:
+  - Criteria: correlation_name = "Task_02_03_03"
+    LocalizationId: corrname_Task_02_03_03
+ContentRelations:
+  Implements:
+    ATTACK:
+      execution: []

@@ -1,0 +1,4 @@
+Description: 'Обнаружена подозрительная активность (mshta.exe) на узле desktop-eoo67ob.'
+EventDescriptions:
+  - LocalizationId: 'corrname_Task_02_03_03'
+    EventDescription: 'Процесс {object.process.name} выполнил команду {object.process.cmdline} на узле {event_src.host}'

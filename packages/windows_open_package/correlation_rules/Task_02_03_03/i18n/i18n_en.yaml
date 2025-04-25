@@ -1,0 +1,4 @@
+Description: 'Detected suspicious MSHTA.EXE activity on the host desktop-eoo67ob.'
+EventDescriptions:
+  - LocalizationId: 'corrname_Task_02_03_03'
+    EventDescription: 'The process {object.process.name} executed the command {object.process.cmdline} on host {event_src.host}'
